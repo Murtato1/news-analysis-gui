@@ -11,7 +11,7 @@ app = tk.Tk()
 app.title("Article Analysis GUI")
 
 # Replace 'YOUR_API_KEY' with your actual OpenAI API key.
-api_key = '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'
+api_key = 'YOUR_API_KEY'
 openai.api_key = api_key
 
 # Create or connect to the database
